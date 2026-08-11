@@ -203,6 +203,9 @@ The source files are included in this repository so the layout can be modified a
    - Then select QWERTY - GERMAN
 5. Just make sure to restart you pc and select the added lanuguage using `win + space` or `alt + shift` and enjoy it.
 
+Your setup should look like this:
+<img src="./images/how should it look.png">
+
 ## Project Status
 
 This project was created primarily for personal use, but it is published for anyone who has the same problem and prefers **QWERTY over QWERTZ** when typing German.
