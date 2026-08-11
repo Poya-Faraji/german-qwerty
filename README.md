@@ -29,7 +29,7 @@ I wanted a keyboard layout that provides the best of both worlds:
 
 **German QWERTY** keeps the standard QWERTY keyboard layout and adds German characters using **AltGr**.
 
-**Note**: `AltGr = alt + ctrl` or `ctrl + alt` the order does't matter.
+**Note**: `AltGr = alt + ctrl` or `ctrl + alt` the order doesn't matter.
 
 ### Lowercase
 
@@ -194,14 +194,14 @@ The source files are included in this repository so the layout can be modified a
 
 ## How to install
 
-1. You can download and extract then just run `setup.exe` file from relases of this [github page](https://github.com/Poya-Faraji/german-qwerty/releases/tag/v1.0.0)
+1. You can download and extract then just run `setup.exe` file from releases of this [github page](https://github.com/Poya-Faraji/german-qwerty/releases/tag/v1.0.0)
 
-2. Then you go windows Lanuage settings
+2. Then you go windows Language settings
 3. Then select English/German click options
-4. Once you are in Lanugae Options:
+4. Once you are in Language Options:
    - Under the keyboard click Add a keyboard
    - Then select QWERTY - GERMAN
-5. Just make sure to restart you pc and select the added lanuguage using `win + space` or `alt + shift` and enjoy it.
+5. Just make sure to restart you PC and select the added language using `win + space` or `alt + shift` and enjoy it.
 
 Your setup should look like this:
 <img src="./images/how should it look.png">
